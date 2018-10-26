@@ -1,0 +1,11 @@
+.navbar {
+    background: violet;
+    height: 100px;
+    opacity: 0.5
+}
+
+.navbar a {
+    color: white;
+    font-size: 4rem;
+    
+}

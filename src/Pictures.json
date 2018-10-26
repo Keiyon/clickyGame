@@ -1,0 +1,61 @@
+[
+    {
+    "id": 1,
+    "photo": "./assets/pictures/AmosSlade.png"
+    },
+
+    {
+    "id": 2,
+    "photo": "./assets/pictures/BigMama.png"
+    },
+
+    {
+    "id": 3,
+    "photo": "./assets/pictures/Chief.png"
+    },
+
+    {
+    "id": 4,
+    "photo": "./assets/pictures/Chief1.png"
+    },
+
+    {
+    "id": 5,
+    "photo": "./assets/pictures/Copper12.jpg"
+    },
+
+    {
+    "id": 6,
+    "photo": "./assets/pictures/Copper1.png"
+    },
+
+    {
+    "id": 7,
+    "photo": "./assets/pictures/Squeaks1.png"
+    },
+
+    {
+    "id": 8,
+    "photo": "./assets/pictures/Tod12.png"
+    },
+
+    {
+    "id": 9,
+    "photo": "./assets/pictures/Tod1.png"
+    },
+
+    {
+    "id": 10,
+    "photo": "./assets/pictures/Vixey.png"
+    },
+
+    {
+    "id": 11,
+    "photo": "./assets/pictures/WidowTweed.png"
+    },
+
+    {
+    "id": 12,
+    "photo": "./assets/pictures/WidowTweed1.png"
+    }
+]

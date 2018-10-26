@@ -1,0 +1,6 @@
+.wrapper {
+  height: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px  40px;
+}
